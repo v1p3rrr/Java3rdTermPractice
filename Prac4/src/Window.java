@@ -7,8 +7,8 @@ public class Window extends JFrame
 {
     JFrame window = new JFrame("Practice #4 Window");
     Font defFont = new Font("Acrobat Bold", Font.PLAIN, 20);
-    JButton team1 = new JButton("Spacestation Gaming");
-    JButton team2 = new JButton("Team Empire");
+    JButton team1 = new JButton("Team #1");
+    JButton team2 = new JButton("Team #2");
     private int t1 = 0;
     private int t2 = 0;
     JLabel result = new JLabel("Result "+t1+":"+t2);
