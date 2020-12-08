@@ -9,10 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84eb8a7b-cb63-42e5-9e45-50739a48192f" name="Default Changelist" comment="test change">
-      <change afterPath="$PROJECT_DIR$/Lab7/Lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Lab4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -217,18 +217,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606169744498" />
-    <state x="450" y="153" key="new project wizard" timestamp="1607394142689">
+    <state x="450" y="153" key="new project wizard" timestamp="1607408558981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="450" y="153" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607394142689" />
+    <state x="450" y="153" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607408558981" />
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1607387893393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607387893393" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1607378065251">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607409121945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607378065251" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607409121945" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607396045809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
