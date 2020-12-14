@@ -9,7 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84eb8a7b-cb63-42e5-9e45-50739a48192f" name="Default Changelist" comment="test change">
-      <change afterPath="$PROJECT_DIR$/Prac7/Prac7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac9/Prac9.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,10 +52,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lab6" />
+      <module name="Prac9" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,19 +89,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,38 +173,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605835573295" />
-    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1607913602347">
+    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1607920053799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607913602347" />
-    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1607913602347">
+    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607920053799" />
+    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1607920053798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607913602347" />
-    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1607913602347">
+    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607920053798" />
+    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1607920053798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607913602347" />
-    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1607913602347">
+    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607920053798" />
+    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1607920053799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607913602347" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605807457810">
+    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607920053799" />
+    <state width="938" height="345" key="GridCell.Tab.1.bottom" timestamp="1607919479984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605807457810" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605807457809">
+    <state width="938" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
+    <state width="938" height="345" key="GridCell.Tab.1.center" timestamp="1607919479984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605807457809" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605807457809">
+    <state width="938" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
+    <state width="938" height="345" key="GridCell.Tab.1.left" timestamp="1607919479984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605807457809" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605807457810">
+    <state width="938" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
+    <state width="938" height="345" key="GridCell.Tab.1.right" timestamp="1607919479984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605807457810" />
+    <state width="938" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
     <state x="834" y="189" key="SettingsEditor" timestamp="1605835281795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -213,29 +213,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606169768702" />
-    <state x="564" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607391795007">
+    <state x="564" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607915821721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607391795007" />
+    <state x="564" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607915821721" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606169744498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606169744498" />
-    <state x="450" y="153" key="new project wizard" timestamp="1607906146589">
+    <state x="450" y="153" key="new project wizard" timestamp="1607913802826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="450" y="153" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607906146589" />
+    <state x="450" y="153" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607913802826" />
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1607387893393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607387893393" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1607409121945">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607914070091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607409121945" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607914070091" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607892536199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607892536199" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="userList" language="JAVA" />
+        <watch expression="userList.get(2).getName()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
