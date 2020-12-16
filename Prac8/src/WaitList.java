@@ -2,7 +2,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
-public class WaitList<E> implements IWaitList<E> {
+public class WaitList<E> {
 
     protected ConcurrentLinkedQueue<E> content;
 

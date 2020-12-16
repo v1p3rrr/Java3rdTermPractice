@@ -9,10 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84eb8a7b-cb63-42e5-9e45-50739a48192f" name="Default Changelist" comment="test change">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac8/Prac8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac8/src/WaitList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prac8/src/WaitList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Prac9" />
@@ -63,9 +62,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lab8" />
+      <module name="Lab10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,19 +91,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,10 +151,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608093606502" />
-    <state x="872" y="219" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1605643987007">
+    <state x="872" y="219" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1608150272565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="872" y="219" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605643987007" />
+    <state x="872" y="219" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608150272565" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605828413222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -176,22 +175,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605835573295" />
-    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1608094864991">
+    <state width="669" height="266" key="GridCell.Tab.0.bottom" timestamp="1608157776414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608094864991" />
-    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1608094864991">
+    <state width="669" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608157776414" />
+    <state width="669" height="266" key="GridCell.Tab.0.center" timestamp="1608157776413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608094864991" />
-    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1608094864990">
+    <state width="669" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608157776413" />
+    <state width="669" height="266" key="GridCell.Tab.0.left" timestamp="1608157776413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608094864990" />
-    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1608094864991">
+    <state width="669" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608157776413" />
+    <state width="669" height="266" key="GridCell.Tab.0.right" timestamp="1608157776414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608094864991" />
+    <state width="669" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608157776414" />
     <state width="938" height="345" key="GridCell.Tab.1.bottom" timestamp="1607919479984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,18 +227,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" width="1471" height="733" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1608095069207" />
-    <state x="450" y="153" key="new project wizard" timestamp="1608083758667">
+    <state x="450" y="153" key="new project wizard" timestamp="1608095357095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="450" y="153" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608083758667" />
+    <state x="450" y="153" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608095357095" />
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1607387893393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607387893393" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1608092018741">
+    <state x="660" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1608096456062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608092018741" />
+    <state x="660" y="277" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608096456062" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608157248728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608157248728" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607892536199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
