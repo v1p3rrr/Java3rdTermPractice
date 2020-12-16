@@ -9,7 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84eb8a7b-cb63-42e5-9e45-50739a48192f" name="Default Changelist" comment="test change">
-      <change afterPath="$PROJECT_DIR$/Prac9/Prac9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac8/Prac8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -33,7 +34,9 @@
     <option name="defaultAccountId" value="2a1ba693-d428-45b8-8dc6-cbecd85ffad5" />
   </component>
   <component name="ProjectId" id="1kKmj353Rbxzac8mgfV98mB7fRI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,24 +48,17 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Prac9" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lab7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,20 +84,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Prac8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -145,10 +148,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605827098489" />
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1607912899377">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1608093606502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607912899377" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608093606502" />
     <state x="872" y="219" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1605643987007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -173,22 +176,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605835573295" />
-    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1607920053799">
+    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1608094864991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607920053799" />
-    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1607920053798">
+    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608094864991" />
+    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1608094864991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607920053798" />
-    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1607920053798">
+    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608094864991" />
+    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1608094864990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607920053798" />
-    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1607920053799">
+    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608094864990" />
+    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1608094864991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607920053799" />
+    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608094864991" />
     <state width="938" height="345" key="GridCell.Tab.1.bottom" timestamp="1607919479984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -205,10 +208,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="938" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
-    <state x="834" y="189" key="SettingsEditor" timestamp="1605835281795">
+    <state x="83" y="117" key="SettingsEditor" timestamp="1608063153147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="834" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605835281795" />
+    <state x="83" y="117" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608063153147" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606169768702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -221,18 +224,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606169744498" />
-    <state x="450" y="153" key="new project wizard" timestamp="1607913802826">
+    <state x="0" y="0" width="1471" height="733" key="dock-window-1" timestamp="1608095069207">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="450" y="153" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607913802826" />
+    <state x="0" y="0" width="1471" height="733" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1608095069207" />
+    <state x="450" y="153" key="new project wizard" timestamp="1608083758667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="153" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608083758667" />
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1607387893393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607387893393" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1607914070091">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608092018741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607914070091" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608092018741" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607892536199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
