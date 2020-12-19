@@ -73,6 +73,7 @@ public class Test {
         System.out.println(unfairWaitList + " unfairWaitList");
         unfairWaitList.remove("4");
         unfairWaitList.remove("33");
+        unfairWaitList.remove("2");
         System.out.println(unfairWaitList + " unfairWaitList");
     }
 }

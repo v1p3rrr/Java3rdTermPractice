@@ -5,7 +5,8 @@ public class UnfairWaitList<E> extends WaitList<E>{
     }
 
     public void remove(E element){
-        content.remove(element);
+        if (content.peek()!=element)
+            content.remove(element);
     }
 
     public void moveToBack(E element){

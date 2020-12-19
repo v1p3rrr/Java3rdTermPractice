@@ -9,15 +9,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84eb8a7b-cb63-42e5-9e45-50739a48192f" name="Default Changelist" comment="test change">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10/src/AnyContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/AnyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab10/AnyContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac8/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prac8/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac8/src/UnfairWaitList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prac8/src/UnfairWaitList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab10/AnyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab10/AnyArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lab10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab10/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prac7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prac7/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prac7/SortingStudentsByGPA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prac7/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prac8/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prac8/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prac8/UnfairWaitList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prac8/UnfairWaitList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prac8/WaitList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prac8/WaitList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComplexAbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcreteFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,9 @@
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="2a1ba693-d428-45b8-8dc6-cbecd85ffad5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lab10/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1kKmj353Rbxzac8mgfV98mB7fRI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -60,14 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Prac9" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainChairs">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Lab10" />
@@ -82,9 +80,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Prac6" />
+    <configuration name="MainChairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chairs.MainChairs" />
+      <module name="Prac10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainComplex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Complex.MainComplex" />
+      <module name="Prac10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,19 +102,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.MainComplex" />
+      <item itemvalue="Application.MainChairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainChairs" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainComplex" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -153,10 +158,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605827098489" />
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1608093606502">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1608334622662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608093606502" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608334622662" />
     <state x="872" y="219" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1608150272565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -181,38 +186,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605835573295" />
-    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1608324218711">
+    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1608336110569">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608324218711" />
-    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1608324218711">
+    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608336110569" />
+    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1608336110568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608324218711" />
-    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1608324218711">
+    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608336110568" />
+    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1608336110568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608324218711" />
-    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1608324218711">
+    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608336110568" />
+    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1608336110568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608324218711" />
-    <state width="938" height="345" key="GridCell.Tab.1.bottom" timestamp="1607919479984">
+    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608336110568" />
+    <state width="938" height="345" key="GridCell.Tab.1.bottom" timestamp="1608329313099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
-    <state width="938" height="345" key="GridCell.Tab.1.center" timestamp="1607919479984">
+    <state width="938" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608329313099" />
+    <state width="938" height="345" key="GridCell.Tab.1.center" timestamp="1608329313098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
-    <state width="938" height="345" key="GridCell.Tab.1.left" timestamp="1607919479984">
+    <state width="938" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608329313098" />
+    <state width="938" height="345" key="GridCell.Tab.1.left" timestamp="1608329313098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
-    <state width="938" height="345" key="GridCell.Tab.1.right" timestamp="1607919479984">
+    <state width="938" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608329313098" />
+    <state width="938" height="345" key="GridCell.Tab.1.right" timestamp="1608329313098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607919479984" />
+    <state width="938" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608329313098" />
     <state x="83" y="117" key="SettingsEditor" timestamp="1608063153147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
