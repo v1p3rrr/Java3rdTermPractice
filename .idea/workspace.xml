@@ -10,16 +10,10 @@
   <component name="ChangeListManager">
     <list default="true" id="84eb8a7b-cb63-42e5-9e45-50739a48192f" name="Default Changelist" comment="test change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac8/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prac8/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac8/src/UnfairWaitList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prac8/src/UnfairWaitList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/AnyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/AnyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lab10/AnyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab10/AnyArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lab10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab10/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prac8/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prac8/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prac8/UnfairWaitList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prac8/UnfairWaitList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prac8/WaitList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prac8/WaitList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComplexAbstractFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConcreteFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +59,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainChairs">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Lab10" />
@@ -110,8 +104,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainChairs" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.MainChairs" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.MainComplex" />
         <item itemvalue="Application.Main (3)" />
@@ -186,22 +180,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605835573295" />
-    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1608336110569">
+    <state width="938" height="266" key="GridCell.Tab.0.bottom" timestamp="1608342119774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608336110569" />
-    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1608336110568">
+    <state width="938" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608342119774" />
+    <state width="938" height="266" key="GridCell.Tab.0.center" timestamp="1608342119774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608336110568" />
-    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1608336110568">
+    <state width="938" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608342119774" />
+    <state width="938" height="266" key="GridCell.Tab.0.left" timestamp="1608342119773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608336110568" />
-    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1608336110568">
+    <state width="938" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608342119773" />
+    <state width="938" height="266" key="GridCell.Tab.0.right" timestamp="1608342119774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608336110568" />
+    <state width="938" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608342119774" />
     <state width="938" height="345" key="GridCell.Tab.1.bottom" timestamp="1608329313099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -250,10 +244,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="277" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608096456062" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1608324014949">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608342370033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608324014949" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608342370033" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607892536199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
